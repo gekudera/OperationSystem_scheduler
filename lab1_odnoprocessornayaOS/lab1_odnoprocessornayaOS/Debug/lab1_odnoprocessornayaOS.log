@@ -1,0 +1,4 @@
+﻿  lab1_odnoprocessornayaOS.cpp
+D:\МОИ программы\Операционные системы. Планировщик\lab1_odnoprocessornayaOS\lab1_odnoprocessornayaOS\lab1_odnoprocessornayaOS.cpp(39,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\МОИ программы\Операционные системы. Планировщик\lab1_odnoprocessornayaOS\lab1_odnoprocessornayaOS\lab1_odnoprocessornayaOS.cpp(265,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab1_odnoprocessornayaOS.vcxproj -> D:\МОИ программы\Операционные системы. Планировщик\lab1_odnoprocessornayaOS\Debug\lab1_odnoprocessornayaOS.exe
